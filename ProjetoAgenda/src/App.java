@@ -61,10 +61,18 @@ public class App {
             System.out.println("Digite uma opção:");
             opcao1 = entrada.nextInt();
             switch (opcao1) {
-                case 1:
+                case 11:
                     
                     break;
-            
+                case 12:
+                    
+                    break;
+                case 13:
+                    
+                    break;
+                case 14:
+                    
+                    break;     
                 default:
                     break;
             }
